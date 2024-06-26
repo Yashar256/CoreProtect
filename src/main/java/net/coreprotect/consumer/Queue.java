@@ -1,4 +1,4 @@
-package net.coreprotect.consumer;
+package net.coreprotect.consumer; 
 
 import java.util.ArrayList;
 import java.util.List;
